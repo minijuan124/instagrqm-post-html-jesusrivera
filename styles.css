@@ -1,0 +1,15 @@
+body{background: black;}
+
+.post{
+	background: white;
+	width: 500px;
+	height: 600px;
+	margin: auto;
+}
+.post-header img{width: 50px;
+	height: 40px;}
+.post-header h1, p{width: 100; margin: 0%;}
+.post-header{display: flex;}
+.post-header i{ margin-top: 3%; margin-left: 65%;}
+.post-img img{width: 500px; height: 400px;}
+.post-footer p{margin: 2%;}
